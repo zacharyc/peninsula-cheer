@@ -1,0 +1,12 @@
+# Site settings
+title: Peninsula Cheer
+email: zachary@zacharyc.com
+description: "This site is a resource of cheerleading programs and resources in the San Francisco Bay Area"
+baseurl: ""
+url: "http://peninsulacheer.com"
+twitter_username:
+github_username: zacharyc
+
+# Build settings
+markdown: kramdown
+permalink: pretty
