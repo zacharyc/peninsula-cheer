@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Peninsula Cheer
+<iframe src="https://mapsengine.google.com/map/embed?mid=zBZBhet6DBPA.kqU6IdkwgTN0" width="640" height="480"></iframe>
 
 ## School Programs
 
